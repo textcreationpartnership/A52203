@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Leghorn March the twenty foureh [sic], 1690/1 from on board the Brittania</title>
+            <author>W. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52203</idno>
+            <idno type="STC">Wing M95A</idno>
+            <idno type="STC">ESTC R13388</idno>
+            <idno type="EEBO-CITATION">13586539</idno>
+            <idno type="OCLC">ocm 13586539</idno>
+            <idno type="VID">100557</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100557)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 465:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Leghorn March the twenty foureh [sic], 1690/1 from on board the Brittania</title>
+                  <author>W. M.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printed in double columns.</note>
+                  <note>Caption title.</note>
+                  <note>Signed: W. M.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:100557:1"/>
+            <!-- PDF PAGE 36 -->
+            <head>A LETTER FROM LEGHORN, March the <hi>Twenty Foureh,</hi> 1690/1. FROM On Board the <hi>Brittania.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AFter my moſt hearty Thanks for the Preſent of thoſe Delici<g ref="char:EOLhyphen"/>ous Wines of <hi>Monte-Chriſto</hi> you ſent me, with which ſe<g ref="char:EOLhyphen"/>veral Friends of yours, and my ſelf, frequently drink your Health. I know you will be not a little ſollicitous, to know the preſent State of our <hi>Ship,</hi> which according to my little Know<g ref="char:EOLhyphen"/>ledge of ſo great a Body, is at pre<g ref="char:EOLhyphen"/>ſent thus:</p>
+            <p>You remember after our late <hi>Cap<g ref="char:EOLhyphen"/>tain</hi> had deſerted us, and went over to the <hi>Algerines,</hi> by unanimous Conſent of the Ships Crew, (a few <hi>Mahometan Tarpaulins</hi> only excepted) we choſe the <hi>Maſter of the Batavia</hi> to ſucceed him, who has given us all the Aſſurances of
+<pb n="2" facs="tcp:100557:2"/>
+               <!-- PDF PAGE 37 -->a Brave and Generous Commander: You have heard of his laſt Summers Actions on Board the <hi>Hibernia,</hi> who is now almoſt forc'd to her Obedience, and to ſtri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Sail to the <hi>Britania,</hi> tho' ſome few <hi>Mahometans,</hi> who lye skulk<g ref="char:EOLhyphen"/>ing in hole, of the Ship, do ſometimes appear upon <hi>Deck,</hi> but our Men do often kill 'em, and throw 'em over<g ref="char:EOLhyphen"/>board: the <hi>Lieutenant</hi> was kill'd laſt Summer, by a <hi>Shot in the Neck,</hi> and our <hi>Captain</hi> himſelf receiv'd a ſlight Wound on the ſhoulder, but we hope in a little time, to give a very good Account of that Ship, the Round houſe, the Great Cabin, the Steerage and Gun Room being entirely in the <hi>Chriſtians Hands;</hi> and the Ships Crew are con<g ref="char:EOLhyphen"/>tinually between Decks, to find out the lurking <hi>Mahometans.</hi>
+            </p>
+            <p>Our <hi>Captain,</hi> in <hi>January</hi> laſt, went on Board the <hi>Batavia,</hi> a Veſſel lying at Anchor, ſome few Leagues from our Ship, to diſcourſe with ſeveral o<g ref="char:EOLhyphen"/>ther <hi>Captains</hi> &amp; <hi>Lieutenants</hi> (who there make their Rendezvous) about the State of the War with the <hi>Algerines,</hi> this ap<g ref="char:EOLhyphen"/>proaching Summer, who are now grown to a very conſiderable degree of Inſo<g ref="char:EOLhyphen"/>lence, and bid deſiance to all the Ships in the <hi>Mediterranean;</hi> but their ſeveral Breaches of Faith, and their frequent Cruelties, have render'd them very o<g ref="char:EOLhyphen"/>dious to all the <hi>Chriſtian Veſſels,</hi> now riding in theſe Seas: It muſt yet be con<g ref="char:EOLhyphen"/>feſt, they are a very politick ſort of People, and by Means of their <hi>Barbary Gold,</hi> get Intelligence of almoſt all the Actions and Intentions of the <hi>Chriſtians,</hi> who have a numerous Company of <hi>Re<g ref="char:EOLhyphen"/>negades</hi> amongſt them; who, though they do not openly profeſs the <hi>Maho<g ref="char:EOLhyphen"/>metan Creed,</hi> yet are believ'd to be <hi>Muſ<g ref="char:EOLhyphen"/>ſelmen</hi> in their Hearts; beſides, their fixt Belief of <hi>Fatality</hi> emboldens the <hi>Algerines</hi> in their <hi>Barbarities,</hi> and in<g ref="char:EOLhyphen"/>terpreting every Action by its Succeſs, they upon every proſperous Event, puſh their good Fortune on, and are the more Reſolute and Daring, becauſe they be<g ref="char:EOLhyphen"/>lieve every Mans Fate to be wrote in his Fore-head.</p>
+            <p>You have heard, I preſume, Sir, of the Villainous Actions of one of our <hi>Eore-maſt, Men</hi> (a Fellow that uſed to fell Brandy to ſome of the Sailers) who was ſeen to ſwim on Board the <hi>Alge<g ref="char:EOLhyphen"/>rine Fleet</hi> when near this Port; he was taken and Tryed, and making but a pitiful Defence for himſelf, a conve<g ref="char:EOLhyphen"/>nient Halter ſoon finiſh't the Life of poor <hi>Godfrey.</hi>
+            </p>
+            <p>The moſt Remarkable Occurrence that lately happen'd, was of three of our Paſſengers, the one of <hi>Quality,</hi> and the two other <hi>Gentlemen</hi> of Fortune, who being Well-wiſhers to the <hi>Alge<g ref="char:EOLhyphen"/>rine Interest,</hi> contrived in a little <hi>Felu<g ref="char:EOLhyphen"/>ca</hi> they had hired for that Purpoſe, to go to <hi>Algiers</hi> in the Night; their De<g ref="char:EOLhyphen"/>ſign ſucceeded ſo far, that they got off, and were gone ſome Miles at Sea, but our <hi>Secretary</hi> ſoon ſmoak'd the Deſign, and ſent one or two of our ableſt Sailers in the Long Boat after 'em; they quick<g ref="char:EOLhyphen"/>ly found 'em, and ſearching the Sparks, found a Bundle of Letters, with Lead affixt to the Bag that kept them; up<g ref="char:EOLhyphen"/>on
+<pb n="3" facs="tcp:100557:2"/>
+               <!-- PDF PAGE 37 -->the Seizure of which, they endea<g ref="char:EOLhyphen"/>voured by large Promiſes, and inſinu<g ref="char:EOLhyphen"/>ating Wheedles, to have perſwaded our Boys to have thrown them over<g ref="char:EOLhyphen"/>board, but being honeſt truſty Ladds they refus'd it, and bringing them back they were committed to the <hi>Fore Ca<g ref="char:EOLhyphen"/>ſtle,</hi> and examin'd; two of them re<g ref="char:EOLhyphen"/>ceiv'd ſentence of death, and one of them was hang'd at the Yard Arm, to the great grief of thoſe in our Ship, who are favourers of the <hi>Mahumetan Intereſt;</hi> the Copy of his Speech they got printed at the port, and value it as highly as the <hi>Alc ran,</hi> and what ever eſteem he may have with others, with them he paſſes for a <hi>true believer,</hi> and is believ'd to be gone directly to para<g ref="char:EOLhyphen"/>dice.</p>
+            <p>The <hi>Captains Lady</hi> (who by Conſent) Governs the Veſſel in his Abſence; is a Woman of Extraordinary Con<g ref="char:EOLhyphen"/>duct; Nature has furniſht Her with a Thouſand Charms, both of body and mind; ſo that Her very Enemies are forced to own Her to be a Lady fit to Rule; and which is yet more ſtrange, ſo wiſely does She Steer the Ship, that all the Mariners on Board, confeſs with an Unanimous Conſent that She has a Soul purely Maſculine, and juſtly Claims the moſt exalted Reſpect from all, who are ſpectators of her wiſe Management.</p>
+            <p>The <hi>Mahometans</hi> on Board, tho' not countenanced, nor put into places of truſt, yet while they behave themſelves quietly, enjoy the private Exerciſe of their Religion, but the moſt pernici<g ref="char:EOLhyphen"/>ous Creatures amongſt us are a ſort of <hi>Mongrill Chriſtians,</hi> who bear an equal reſpect both to the <hi>Croſs,</hi> and the <hi>Half-Moon;</hi> they are continually in ſome private places of the Ship, form<g ref="char:EOLhyphen"/>ing projects to reſtore our <hi>late Cap<g ref="char:EOLhyphen"/>tain</hi> to his poſt again, and frequently drink his health, and to his ſafe return to the <hi>Brittania,</hi> but in ſuch odd, and Ambiguous Terms, that their words have a double meaning, and ſince the knowledge of the intention is hid from Humane Cognizance, by their ingenu<g ref="char:EOLhyphen"/>ous ſalvo's, they keep themſelves with<g ref="char:EOLhyphen"/>in the intrenchments of their own thoughts, the want of which Equivo<g ref="char:EOLhyphen"/>cation, would often expoſe them to the ill Uſage of the <hi>Bilboes,</hi> or the ſevere Diſcipline of the <hi>Capſtern.</hi>
+            </p>
+            <p>We have a Numerous Company of the <hi>Clergy</hi> on Board, who have the charge of the Souls Health of thoſe in the Ship; yet the <hi>Chief Head</hi> of their number with ſome <hi>few others,</hi> refuſe in their publick Devotions to pray for the preſent Governours of our Ship; yet take it for a moſt Abuſive Affront, if any one ſhould but expreſs a thought that they were friends to the <hi>Algerines,</hi> nevertheleſs their Actions plainly tend to that intereſt; ſome of the <hi>Tarpaulins</hi> likewiſe (influenc'd by them) appear friends to their perſwaſion; but their number is ſo inconſiderable, that the Wiſer Heads at the <hi>Helm</hi> are no ways affraid of them.</p>
+            <p>We juſt now receiv'd advice, that the <hi>Algerines</hi> in great Numbers had At<g ref="char:EOLhyphen"/>tacq'd a large Veſſel of the <hi>Spaniards,</hi>
+               <pb n="4" facs="tcp:100557:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 38 -->called the <hi>Montania,</hi> now in Confede<g ref="char:EOLhyphen"/>racy with the reſt in this Harbour; they made ſome ſhew of a Vigorous Onſet, but the Veſſel, tho' not half <hi>Mann'd,</hi> 'tis believ'd will make a very bold defence, by reaſon their <hi>Lieutenant</hi> is a very Stout Commander: 'Tis re<g ref="char:EOLhyphen"/>ported our <hi>Captain</hi> will go from the <hi>Batavia,</hi> to Oppoſe the Enemy; and there are ſome whiſpers, that the <hi>In<g ref="char:EOLhyphen"/>fidels</hi> have already quitted their pre<g ref="char:EOLhyphen"/>tences; but the certainty of this re<g ref="char:EOLhyphen"/>port with ſome other Remarkable paſ<g ref="char:EOLhyphen"/>ſages of our Ship, you may expect to hear ſuddenly, from,</p>
+            <closer>
+               <signed>SIR, Your Servant <hi>W. M.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Licenſed</hi> March the <hi>Ninteenth,</hi> 1690/1</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>L. C.</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
